@@ -18,8 +18,6 @@ public class SelectionSort {
             arr[min]=temp;
         }
     }
-
-
 }
 /*
 Tanım : ilk elemandan son elemana kadar her elemanı kendinden sonra gelen, kendinden

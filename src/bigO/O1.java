@@ -11,7 +11,7 @@ public class O1 {    //O(n)  --> O(1)  ( Constant Complexity ) ->time sabit!
 
         //baska bir ornek : verilen sayinin cift olup olmadigini kontrol edin
 
-        int x=24;
+        int x = 24;
         if (x%2==0) System.out.println("Cift");   //tek islem  -> O(1)
 
 
